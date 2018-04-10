@@ -1,4 +1,4 @@
-1. Clone repo: 
+1. Clone repo: https://github.com/totrung92/Git_Practice
 2. Create your feature branch from develop branch (name's branch is your FPT account eg: trungtv7).
 3. Create new folder with name is your FPT account.
 4. Copy "Calculator.c" file from template folder into your folder.
@@ -8,7 +8,7 @@
 7. Create new branch with name "yourAccount"_Subtraction_feature.(branch 1) from develop branch
 8. Implement Subtraction function in file Calculator.c.
 9. Commit and push into branch 1.
-10. Create another new branch with name "yourAccount"_Multiplication_feature(branch 2) from develop branch1
+10. Create another new branch with name "yourAccount"_Multiplication_feature(branch 2) from develop branch
 11. Implement Multiplication function in file Calculator.c
 12. Commit and push into branch 2.
 13. Merge branch 1 into develop branch.
