@@ -5,6 +5,13 @@ int add(int a,int b)
     sum = a+b;
     return sum;
 }
+int sub(int a,int b)
+{
+    int sum;
+    sum = a-b;
+    return sum;
+}
+
 
 
 
