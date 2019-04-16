@@ -5,6 +5,9 @@ int add(int a,int b)
     sum = a+b;
     return sum;
 }
+int multi(int a, int b){
+	return a*b;
+}
 
 
 
