@@ -11,6 +11,10 @@ int sub(int a,int b)
 	tt=a-b;
 	return tt;
 }
+int multi(int a, int b){
+	return a*b;
+}
+
 
 
 
